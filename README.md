@@ -4,7 +4,7 @@
 
 ## Description
 
-This apps uses the Inquirer node package to prompt questions in order to generate a README file for GitHub repositories.
+This apps uses the Inquirer node package to prompt questions in order to generate a README file for GitHub repositories. For user testing purpose I change README.md to READMee.md.
 
 ## Table of Contents
 

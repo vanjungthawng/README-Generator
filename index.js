@@ -115,7 +115,7 @@ inquirer
   .then((answers) => {
     const readMeFormat = genReadMe(answers);
 
-    fs.writeFile("README.md", readMeFormat, (err) =>
+    fs.writeFile("READMee.md", readMeFormat, (err) =>
       err
         ? console.log(err)
         : console.log("Successfully created the README file!")
